@@ -1,4 +1,4 @@
-languages = %w(peal python ruby)
+languages = %w(peal python )
 languages.each do |language|
 
   
